@@ -25,7 +25,7 @@ This project contains a parameterized RAM module written in Verilog, capable of 
 
 ## 🛠️ Requirements
 
-- Vivado (tested with version XX.XX)
+- Vivado (tested with version 2025.1)
 - Basic knowledge of Verilog HDL
 
 ---
